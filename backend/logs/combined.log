@@ -1,0 +1,95 @@
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner","timestamp":"2025-07-29T08:43:41.195Z"}
+{"level":"info","message":"Consumer subscribed to queue","service":"malware-scanner","timestamp":"2025-07-29T08:43:41.211Z"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner","timestamp":"2025-07-29T08:43:41.213Z"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner","timestamp":"2025-07-29T08:43:41.218Z"}
+{"level":"info","message":"Environment: development","service":"malware-scanner","timestamp":"2025-07-29T08:43:41.221Z"}
+{"level":"info","message":"Upload directory: ./uploads","service":"malware-scanner","timestamp":"2025-07-29T08:43:41.222Z"}
+{"level":"info","message":"Max file size: 5MB","service":"malware-scanner","timestamp":"2025-07-29T08:43:41.222Z"}
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner","timestamp":"2025-07-29T08:44:25.151Z"}
+{"level":"info","message":"Consumer subscribed to queue","service":"malware-scanner","timestamp":"2025-07-29T08:44:25.165Z"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner","timestamp":"2025-07-29T08:44:25.166Z"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner","timestamp":"2025-07-29T08:44:25.172Z"}
+{"level":"info","message":"Environment: development","service":"malware-scanner","timestamp":"2025-07-29T08:44:25.172Z"}
+{"level":"info","message":"Upload directory: ./uploads","service":"malware-scanner","timestamp":"2025-07-29T08:44:25.173Z"}
+{"level":"info","message":"Max file size: 5MB","service":"malware-scanner","timestamp":"2025-07-29T08:44:25.173Z"}
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner","timestamp":"2025-07-29T08:44:27.000Z"}
+{"level":"info","message":"Consumer subscribed to queue","service":"malware-scanner","timestamp":"2025-07-29T08:44:27.005Z"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner","timestamp":"2025-07-29T08:44:27.005Z"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner","timestamp":"2025-07-29T08:44:27.009Z"}
+{"level":"info","message":"Environment: development","service":"malware-scanner","timestamp":"2025-07-29T08:44:27.009Z"}
+{"level":"info","message":"Upload directory: ./uploads","service":"malware-scanner","timestamp":"2025-07-29T08:44:27.010Z"}
+{"level":"info","message":"Max file size: 5MB","service":"malware-scanner","timestamp":"2025-07-29T08:44:27.013Z"}
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner","timestamp":"2025-07-29T08:44:28.223Z"}
+{"level":"info","message":"Consumer subscribed to queue","service":"malware-scanner","timestamp":"2025-07-29T08:44:28.227Z"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner","timestamp":"2025-07-29T08:44:28.228Z"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner","timestamp":"2025-07-29T08:44:28.230Z"}
+{"level":"info","message":"Environment: development","service":"malware-scanner","timestamp":"2025-07-29T08:44:28.230Z"}
+{"level":"info","message":"Upload directory: ./uploads","service":"malware-scanner","timestamp":"2025-07-29T08:44:28.230Z"}
+{"level":"info","message":"Max file size: 5MB","service":"malware-scanner","timestamp":"2025-07-29T08:44:28.231Z"}
+{"level":"info","message":"File saved to database: 6f7b210b-9f78-445a-a6a2-79c3f938b798","service":"malware-scanner","timestamp":"2025-07-29T08:47:26.076Z"}
+{"level":"info","message":"Job queued: 25f678e5-9c94-4835-8470-77ea713433b7 for file 6f7b210b-9f78-445a-a6a2-79c3f938b798","service":"malware-scanner","timestamp":"2025-07-29T08:47:26.077Z"}
+{"level":"info","message":"Processing job: 25f678e5-9c94-4835-8470-77ea713433b7","service":"malware-scanner","timestamp":"2025-07-29T08:47:26.079Z"}
+{"level":"info","message":"Worker processing scan job: 25f678e5-9c94-4835-8470-77ea713433b7","service":"malware-scanner","timestamp":"2025-07-29T08:47:26.080Z"}
+{"level":"info","message":"Starting scan for file: 6f7b210b-9f78-445a-a6a2-79c3f938b798","service":"malware-scanner","timestamp":"2025-07-29T08:47:26.082Z"}
+{"level":"info","message":"File uploaded and queued for scanning: teck images.jpg (6f7b210b-9f78-445a-a6a2-79c3f938b798)","service":"malware-scanner","timestamp":"2025-07-29T08:47:26.083Z"}
+{"level":"info","message":"File updated in database: 6f7b210b-9f78-445a-a6a2-79c3f938b798","service":"malware-scanner","timestamp":"2025-07-29T08:47:29.799Z"}
+{"level":"info","message":"Scan completed for file 6f7b210b-9f78-445a-a6a2-79c3f938b798: clean","service":"malware-scanner","timestamp":"2025-07-29T08:47:29.800Z"}
+{"level":"info","message":"Worker completed scan job: 25f678e5-9c94-4835-8470-77ea713433b7","service":"malware-scanner","timestamp":"2025-07-29T08:47:29.800Z"}
+{"level":"info","message":"File saved to database: dfc1b39c-1f2f-4752-9eb1-44ffbc5dc3ef","service":"malware-scanner","timestamp":"2025-07-29T08:55:55.125Z"}
+{"level":"info","message":"Job queued: 718842fa-6a41-4aa2-b628-59f040eb55b9 for file dfc1b39c-1f2f-4752-9eb1-44ffbc5dc3ef","service":"malware-scanner","timestamp":"2025-07-29T08:55:55.127Z"}
+{"level":"info","message":"Processing job: 718842fa-6a41-4aa2-b628-59f040eb55b9","service":"malware-scanner","timestamp":"2025-07-29T08:55:55.127Z"}
+{"level":"info","message":"Worker processing scan job: 718842fa-6a41-4aa2-b628-59f040eb55b9","service":"malware-scanner","timestamp":"2025-07-29T08:55:55.127Z"}
+{"level":"info","message":"Starting scan for file: dfc1b39c-1f2f-4752-9eb1-44ffbc5dc3ef","service":"malware-scanner","timestamp":"2025-07-29T08:55:55.128Z"}
+{"level":"info","message":"File uploaded and queued for scanning: CyberXplore Developer Challenge.pdf (dfc1b39c-1f2f-4752-9eb1-44ffbc5dc3ef)","service":"malware-scanner","timestamp":"2025-07-29T08:55:55.128Z"}
+{"level":"info","message":"File updated in database: dfc1b39c-1f2f-4752-9eb1-44ffbc5dc3ef","service":"malware-scanner","timestamp":"2025-07-29T08:55:59.468Z"}
+{"level":"info","message":"Scan completed for file dfc1b39c-1f2f-4752-9eb1-44ffbc5dc3ef: clean","service":"malware-scanner","timestamp":"2025-07-29T08:55:59.468Z"}
+{"level":"info","message":"Worker completed scan job: 718842fa-6a41-4aa2-b628-59f040eb55b9","service":"malware-scanner","timestamp":"2025-07-29T08:55:59.469Z"}
+{"level":"info","message":"Duplicate file detected: CyberXplore Developer Challenge.pdf (26c428416a99dfee6b77f932a2d0b6b8ee6af336aef46f271a0965256ed07bbd)","service":"malware-scanner","timestamp":"2025-07-29T09:04:22.871Z"}
+{"level":"info","message":"Duplicate file detected: teck images.jpg (92948ae294b348750b67520bdec487c0055a89a23bb4a577c38c08159cce6f0f)","service":"malware-scanner","timestamp":"2025-07-29T09:04:39.631Z"}
+{"level":"info","message":"Duplicate file detected: CyberXplore Developer Challenge.pdf (26c428416a99dfee6b77f932a2d0b6b8ee6af336aef46f271a0965256ed07bbd)","service":"malware-scanner","timestamp":"2025-07-29T09:04:52.507Z"}
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner","timestamp":"2025-07-29T09:43:34.059Z"}
+{"level":"info","message":"Consumer subscribed to queue","service":"malware-scanner","timestamp":"2025-07-29T09:43:34.065Z"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner","timestamp":"2025-07-29T09:43:34.066Z"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner","timestamp":"2025-07-29T09:43:34.070Z"}
+{"level":"info","message":"Environment: development","service":"malware-scanner","timestamp":"2025-07-29T09:43:34.071Z"}
+{"level":"info","message":"Upload directory: ./uploads","service":"malware-scanner","timestamp":"2025-07-29T09:43:34.073Z"}
+{"level":"info","message":"Max file size: 5MB","service":"malware-scanner","timestamp":"2025-07-29T09:43:34.076Z"}
+{"level":"info","message":"File saved to database: 4dd2f31a-efd8-4298-a324-1a5e25760f95","service":"malware-scanner","timestamp":"2025-07-29T09:57:18.163Z"}
+{"level":"info","message":"Job queued: c09e4079-250a-4e4a-b3e7-ca194c16bfd9 for file 4dd2f31a-efd8-4298-a324-1a5e25760f95","service":"malware-scanner","timestamp":"2025-07-29T09:57:18.164Z"}
+{"level":"info","message":"Processing job: c09e4079-250a-4e4a-b3e7-ca194c16bfd9","service":"malware-scanner","timestamp":"2025-07-29T09:57:18.164Z"}
+{"level":"info","message":"Worker processing scan job: c09e4079-250a-4e4a-b3e7-ca194c16bfd9","service":"malware-scanner","timestamp":"2025-07-29T09:57:18.165Z"}
+{"level":"info","message":"Starting scan for file: 4dd2f31a-efd8-4298-a324-1a5e25760f95","service":"malware-scanner","timestamp":"2025-07-29T09:57:18.165Z"}
+{"level":"info","message":"File uploaded and queued for scanning: CyberXplore Developer Challenge.pdf (4dd2f31a-efd8-4298-a324-1a5e25760f95)","service":"malware-scanner","timestamp":"2025-07-29T09:57:18.166Z"}
+{"level":"info","message":"File updated in database: 4dd2f31a-efd8-4298-a324-1a5e25760f95","service":"malware-scanner","timestamp":"2025-07-29T09:57:20.593Z"}
+{"level":"info","message":"Scan completed for file 4dd2f31a-efd8-4298-a324-1a5e25760f95: clean","service":"malware-scanner","timestamp":"2025-07-29T09:57:20.594Z"}
+{"level":"info","message":"Worker completed scan job: c09e4079-250a-4e4a-b3e7-ca194c16bfd9","service":"malware-scanner","timestamp":"2025-07-29T09:57:20.594Z"}
+{"level":"info","message":"File saved to database: dcec0b86-9c3a-45e1-8fc8-ae7dc6ff82b8","service":"malware-scanner","timestamp":"2025-07-29T10:02:56.396Z"}
+{"level":"info","message":"Job queued: 44dd576f-3f29-461c-ada6-e24854e9198a for file dcec0b86-9c3a-45e1-8fc8-ae7dc6ff82b8","service":"malware-scanner","timestamp":"2025-07-29T10:02:56.397Z"}
+{"level":"info","message":"Processing job: 44dd576f-3f29-461c-ada6-e24854e9198a","service":"malware-scanner","timestamp":"2025-07-29T10:02:56.398Z"}
+{"level":"info","message":"Worker processing scan job: 44dd576f-3f29-461c-ada6-e24854e9198a","service":"malware-scanner","timestamp":"2025-07-29T10:02:56.398Z"}
+{"level":"info","message":"Starting scan for file: dcec0b86-9c3a-45e1-8fc8-ae7dc6ff82b8","service":"malware-scanner","timestamp":"2025-07-29T10:02:56.399Z"}
+{"level":"info","message":"File uploaded and queued for scanning: h.png (dcec0b86-9c3a-45e1-8fc8-ae7dc6ff82b8)","service":"malware-scanner","timestamp":"2025-07-29T10:02:56.399Z"}
+{"level":"info","message":"File updated in database: dcec0b86-9c3a-45e1-8fc8-ae7dc6ff82b8","service":"malware-scanner","timestamp":"2025-07-29T10:02:58.488Z"}
+{"level":"info","message":"Scan completed for file dcec0b86-9c3a-45e1-8fc8-ae7dc6ff82b8: infected","service":"malware-scanner","timestamp":"2025-07-29T10:02:58.488Z"}
+{"level":"warn","message":"MALWARE DETECTED - File: h.png (dcec0b86-9c3a-45e1-8fc8-ae7dc6ff82b8)","service":"malware-scanner","timestamp":"2025-07-29T10:02:58.489Z"}
+{"attachments":[{"color":"danger","fields":[{"short":true,"title":"File Name","value":"h.png"},{"short":true,"title":"File ID","value":"dcec0b86-9c3a-45e1-8fc8-ae7dc6ff82b8"},{"short":true,"title":"Upload Time","value":"2025-07-29T10:02:56.395Z"},{"short":true,"title":"Scan Time","value":"2025-07-29T10:02:58.488Z"}]}],"level":"info","message":"Infection alert sent:","service":"malware-scanner","text":"🚨 *MALWARE DETECTED* 🚨","timestamp":"2025-07-29T10:02:58.490Z"}
+{"level":"info","message":"Worker completed scan job: 44dd576f-3f29-461c-ada6-e24854e9198a","service":"malware-scanner","timestamp":"2025-07-29T10:02:58.490Z"}
+{"level":"info","message":"Duplicate file detected: CyberXplore Developer Challenge.pdf (26c428416a99dfee6b77f932a2d0b6b8ee6af336aef46f271a0965256ed07bbd)","service":"malware-scanner","timestamp":"2025-07-29T10:05:43.059Z"}
+{"level":"info","message":"File saved to database: d89ae6cf-0611-4754-a827-296b8ab2be55","service":"malware-scanner","timestamp":"2025-07-29T10:17:22.343Z"}
+{"level":"info","message":"Job queued: 8bb6fb5f-f37b-43f5-a132-678554d8a848 for file d89ae6cf-0611-4754-a827-296b8ab2be55","service":"malware-scanner","timestamp":"2025-07-29T10:17:22.344Z"}
+{"level":"info","message":"Processing job: 8bb6fb5f-f37b-43f5-a132-678554d8a848","service":"malware-scanner","timestamp":"2025-07-29T10:17:22.345Z"}
+{"level":"info","message":"Worker processing scan job: 8bb6fb5f-f37b-43f5-a132-678554d8a848","service":"malware-scanner","timestamp":"2025-07-29T10:17:22.345Z"}
+{"level":"info","message":"Starting scan for file: d89ae6cf-0611-4754-a827-296b8ab2be55","service":"malware-scanner","timestamp":"2025-07-29T10:17:22.345Z"}
+{"level":"info","message":"File uploaded and queued for scanning: SPB66IIZEWFSgnKOrmV3.pdf (d89ae6cf-0611-4754-a827-296b8ab2be55)","service":"malware-scanner","timestamp":"2025-07-29T10:17:22.346Z"}
+{"level":"info","message":"File updated in database: d89ae6cf-0611-4754-a827-296b8ab2be55","service":"malware-scanner","timestamp":"2025-07-29T10:17:27.318Z"}
+{"level":"info","message":"Scan completed for file d89ae6cf-0611-4754-a827-296b8ab2be55: clean","service":"malware-scanner","timestamp":"2025-07-29T10:17:27.319Z"}
+{"level":"info","message":"Worker completed scan job: 8bb6fb5f-f37b-43f5-a132-678554d8a848","service":"malware-scanner","timestamp":"2025-07-29T10:17:27.320Z"}
+{"level":"info","message":"File saved to database: ab97dbab-8aa5-4234-a6a3-f50c046ff3e1","service":"malware-scanner","timestamp":"2025-07-29T10:17:54.265Z"}
+{"level":"info","message":"Job queued: 28d32659-000f-4c9a-bdb8-c30e835cc20c for file ab97dbab-8aa5-4234-a6a3-f50c046ff3e1","service":"malware-scanner","timestamp":"2025-07-29T10:17:54.269Z"}
+{"level":"info","message":"Processing job: 28d32659-000f-4c9a-bdb8-c30e835cc20c","service":"malware-scanner","timestamp":"2025-07-29T10:17:54.279Z"}
+{"level":"info","message":"Worker processing scan job: 28d32659-000f-4c9a-bdb8-c30e835cc20c","service":"malware-scanner","timestamp":"2025-07-29T10:17:54.280Z"}
+{"level":"info","message":"Starting scan for file: ab97dbab-8aa5-4234-a6a3-f50c046ff3e1","service":"malware-scanner","timestamp":"2025-07-29T10:17:54.284Z"}
+{"level":"info","message":"File uploaded and queued for scanning: Sandeep-admit-card.png (ab97dbab-8aa5-4234-a6a3-f50c046ff3e1)","service":"malware-scanner","timestamp":"2025-07-29T10:17:54.285Z"}
+{"level":"info","message":"File updated in database: ab97dbab-8aa5-4234-a6a3-f50c046ff3e1","service":"malware-scanner","timestamp":"2025-07-29T10:17:58.750Z"}
+{"level":"info","message":"Scan completed for file ab97dbab-8aa5-4234-a6a3-f50c046ff3e1: clean","service":"malware-scanner","timestamp":"2025-07-29T10:17:58.751Z"}
+{"level":"info","message":"Worker completed scan job: 28d32659-000f-4c9a-bdb8-c30e835cc20c","service":"malware-scanner","timestamp":"2025-07-29T10:17:58.751Z"}
