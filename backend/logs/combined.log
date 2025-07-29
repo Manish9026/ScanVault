@@ -93,3 +93,10 @@
 {"level":"info","message":"File updated in database: ab97dbab-8aa5-4234-a6a3-f50c046ff3e1","service":"malware-scanner","timestamp":"2025-07-29T10:17:58.750Z"}
 {"level":"info","message":"Scan completed for file ab97dbab-8aa5-4234-a6a3-f50c046ff3e1: clean","service":"malware-scanner","timestamp":"2025-07-29T10:17:58.751Z"}
 {"level":"info","message":"Worker completed scan job: 28d32659-000f-4c9a-bdb8-c30e835cc20c","service":"malware-scanner","timestamp":"2025-07-29T10:17:58.751Z"}
+{"level":"info","message":"Starting scan worker...","service":"malware-scanner","timestamp":"2025-07-29T10:34:08.786Z"}
+{"level":"info","message":"Consumer subscribed to queue","service":"malware-scanner","timestamp":"2025-07-29T10:34:08.790Z"}
+{"level":"info","message":"Scan worker started successfully","service":"malware-scanner","timestamp":"2025-07-29T10:34:08.791Z"}
+{"level":"info","message":"Server running on port 3001","service":"malware-scanner","timestamp":"2025-07-29T10:34:08.794Z"}
+{"level":"info","message":"Environment: development","service":"malware-scanner","timestamp":"2025-07-29T10:34:08.794Z"}
+{"level":"info","message":"Upload directory: ./uploads","service":"malware-scanner","timestamp":"2025-07-29T10:34:08.795Z"}
+{"level":"info","message":"Max file size: 5MB","service":"malware-scanner","timestamp":"2025-07-29T10:34:08.795Z"}
